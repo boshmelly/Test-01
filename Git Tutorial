@@ -1,0 +1,28 @@
+For the Branching Project
+Can we use 
+'git checkout -b dev' to confirm new production.
+
+
+git branch -d 'idea' ==  to delete branch
+git switch -c idea / git branch -d to create branch
+git swtich -c feature
+
+git cherry-pick <sha>
+fit cherry-pick sha3..sha5
+
+touch File90.txt
+git init
+git status
+git add File90.txt
+git status
+git commit -m '' your label1:File90.txt is curated and prints welcome message''
+
+Ssh
+
+Lamp
+
+Connecting bitbucket
+git status
+git checkout
+git remote -v
+git remote add originlab 'url'
